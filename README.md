@@ -33,7 +33,7 @@ Saya menggunakan **CTE (Common Table Expression)** dan **Window Functions** untu
 Proyek ini dilengkapi dengan dashboard interaktif untuk mempermudah pemantauan:
 
 * **Screenshot Dashboard:**
-    ![Screenshot Dashboard Antam](https://github.com/DevanAgustino/stock-market-anomaly-detection/blob/main/visualization.pdf)
+    ![Screenshot Dashboard Antam](https://github.com/DevanAgustino/stock-market-anomaly-detection/blob/main/visualization.pdf) 
 
 * **Visualization:**
 👉 [Lihat Dasboard Interaktif di Looker Studio](https://lookerstudio.google.com/reporting/f7fd46ee-013c-4a98-ba75-daa68451eaf5)
