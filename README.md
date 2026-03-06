@@ -1,4 +1,4 @@
-# stock-market-anomaly-detection
+<img width="2000" height="1500" alt="image" src="https://github.com/user-attachments/assets/d480b386-958e-40bd-b1ea-490ca4b03fac" /># stock-market-anomaly-detection
 
 # 📈 Analisis Pasar Saham: ANTM.JK (Aneka Tambang)
 
@@ -33,10 +33,10 @@ Saya menggunakan **CTE (Common Table Expression)** dan **Window Functions** untu
 Proyek ini dilengkapi dengan dashboard interaktif untuk mempermudah pemantauan:
 
 * **Screenshot Dashboard:**
-    ![Screenshot Dashboard Antam](https://link-ke-foto-dashboard-kamu.png)
+    ![Screenshot Dashboard Antam](https://github.com/DevanAgustino/stock-market-anomaly-detection/blob/main/visualization.pdf)
 
 * **Visualization:**
-👉 [Lihat Dasboard Interaktif di Looker Studio](https://link-sharing-looker-studio-kamu)
+👉 [Lihat Dasboard Interaktif di Looker Studio](https://lookerstudio.google.com/reporting/f7fd46ee-013c-4a98-ba75-daa68451eaf5)
 
 * **Fitur Dashboard:**
     * Filter Rentang Tanggal & Kategori Sinyal.
@@ -93,10 +93,10 @@ I utilized **CTEs (Common Table Expressions)** and **Window Functions** to devel
 This project includes an interactive dashboard to streamline trend monitoring:
 
 * **Dashboard Screenshot:**
-    ![Antam Dashboard Screenshot](https://your-image-link-here.png)
+    ![Antam Dashboard Screenshot](https://github.com/DevanAgustino/stock-market-anomaly-detection/blob/main/visualization.pdf)
 
 * **Visualization:**
-👉 [View Interactive Dashboard on Looker Studio](https://link-sharing-looker-studio-kamu)
+👉 [View Interactive Dashboard on Looker Studio](https://lookerstudio.google.com/reporting/f7fd46ee-013c-4a98-ba75-daa68451eaf5)
 
 * **Dashboard Features:**
     * Date Range & Signal Category Filters.
